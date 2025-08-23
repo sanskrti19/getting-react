@@ -1,0 +1,28 @@
+{
+  "name": "getting-react",
+  "version": "1.0.0",
+  "description": "hey doing react hehe ",
+  "homepage": "https://github.com/sanskrti19/getting-react#readme",
+  "bugs": {
+    "url": "https://github.com/sanskrti19/getting-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanskrti19/getting-react.git"
+  },
+  "license": "ISC",
+  "author": "sanskrti",
+  "type": "commonjs",
+"scripts": {
+  "start": "parcel index.html"
+}
+
+,
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
